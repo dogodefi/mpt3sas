@@ -9,7 +9,7 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds918p_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/main/releases/ds918p_42218.json",
-    "ds3617xs_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/main/releases/ds3617xs_42218.json"
+    "ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/releases/ds918p_42218.json",
+    "ds3617xs_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/releases/ds3617xs_42218.json"
   }
 }
