@@ -1,6 +1,6 @@
 {
   "id": "dogodefi.mpt3sas",
-  "url": "https://raw.githubusercontent.com/dogodefi/mpt3sas/main/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/dogodefi/mpt3sas/offical/rpext-index.json",
   "info": {
     "name": "mpt3sas",
     "description": "Adds LSI MPT Fusion SAS 3.0 Device Driver Support",
@@ -9,8 +9,8 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds918p_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/main/releases/ds918p_42218.json",
-    "ds3622xsp_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/main/releases/ds3622xsp_42218.json",
-    "rs3617xsp_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/main/releases/rs3617xsp_42218.json"
+    "ds918p_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/offical/releases/ds918p_42218.json",
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/offical/releases/ds3622xsp_42218.json",
+    "rs3617xsp_42218": "https://raw.githubusercontent.com/dogodefi/mpt3sas/offical/releases/rs3617xsp_42218.json"
   }
 }
